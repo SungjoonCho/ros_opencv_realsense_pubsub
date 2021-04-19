@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="ros_opencv_sub" type="ros_opencv_sub"  name="sub"/>
+
+</launch>
